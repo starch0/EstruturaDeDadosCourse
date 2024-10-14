@@ -1,4 +1,4 @@
-Estudos de Estrutura de dados do curso: [Estrutura de Dados e Algoritimos](https://www.udemy.com/course/algoritmos-e-estruturas-de-dados-leetcode/)
+## Documentando estudos de Estrutura de dados do curso: [Estrutura de Dados e Algoritimos](https://www.udemy.com/course/algoritmos-e-estruturas-de-dados-leetcode/)
 
 
 ## Arrays
