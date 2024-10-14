@@ -22,3 +22,9 @@ Binery Tree é uma estrutura de dados composta por nós, onde cada nó tem filho
 
 ## Graphs
 Um grafo é uma coleção de nós conectados por arestas. Os grafos podem ser direcionados ou não direcionados e podem conter ciclos. Eles são usados para modelar relações complexas, como redes sociais, rotas de transporte e conexões entre sistemas. A complexidade de algoritmos que operam em grafos, como busca em profundidade (DFS) ou busca em largura (BFS), geralmente é O(V + E), onde V é o número de vértices e E é o número de arestas.
+
+## Trie
+Uma Trie é uma estrutura de dados de árvore usada para armazenar um conjunto dinâmico de strings, onde as chaves são geralmente sequências de caracteres. Cada nó da Trie representa um único caractere de uma chave, e o caminho da raiz até um nó representa um prefixo da chave.
+
+## B-tree
+Uma B-tree é uma estrutura de dados de árvore balanceada que mantém os dados ordenados e permite buscas, inserções e deleções em tempo logarítmico. Cada nó de uma B-tree pode ter um número variável de filhos, com um número mínimo e máximo especificado, o que permite uma maior utilização do espaço. A B-tree é projetada para manter os dados balanceados, garantindo que todos os nós folha estejam no mesmo nível. Isso resulta em um desempenho eficiente para operações de leitura e escrita em grandes conjuntos de dados.
